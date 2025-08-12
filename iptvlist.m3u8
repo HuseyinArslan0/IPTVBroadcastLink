@@ -1,0 +1,298 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/sK4nhgH/trt1.png",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/M8VzLqw/showtv.png",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/8YjY82s/startv.png",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/L8y8B1Y/kanald.png",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/s57dKk6/atv.png",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/GMS4y2X/now.png",Now TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/N1pXm27/tv8.png",TV 8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/Dtd0D2Q/tv8-5.png",TV8,5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/Q6yHq3W/360.png",360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/9qTq73K/beyaztv.png",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://i.ibb.co/hKzK4gS/cnbce.png",Cnbc-e
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/y41tF6b/tabii.png",Tabii TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/Xz95gC1/cine6.png",Cine 6
+https://cine6.cine6tv.com.tr:3614/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/gPSc0sW/cinemax.png",Cine Max
+https://max.cinemax6.com:3118/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/F80j82H/novafilm.png",NovaFilm
+https://tv191.radyotelekom.com.tr:3006/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/JqKkZp0/filtv.png",Fil TV
+https://mediaserver1.castpin.com/hls/filbox/1_2/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/6P0qX3W/filmbox-yerli.png",FilmBox Yerli
+http://line.stayconnected.pro:80/play/live.php?mac=00:1A:79:AB:2D:0E&stream=1395483&extension=m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/3WqQ9zR/maxturk.png",Max Türk
+http://iptv3.tjurkx.com/live/yave8d6o9/wb9CmFMY/79133.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/GcbD2x2/playtv.png",Play TV
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/r76K2Yv/sdm.png",SDM Sinema
+https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/Yh4j1Vj/cine1.png",Cine 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/f8xR1YQ/trtnostalji.png",TRT Nostalji
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/dM7S3sV/kanald-drama.png",Kanal D Drama
+https://thema-vivekanald-rakuten.amagi.tv/1080p-vtt/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/GcF4vK0/hbo.png",HBO 1
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/6986/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/GcF4vK0/hbo.png",HBO 2
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7005/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/GcF4vK0/hbo.png",HBO 3
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7013/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/zXnQ2N8/sky-sinema.png",Sky Sinema
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19100/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/tXwz0yM/sky-atlantic.png",Sky Atlantic
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19102/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/n6K0xR4/warner.png",Warner Film
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6111/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/0V8xY2N/movieshd.png",Movies HD
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31437/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/gPSc0sW/cinemax.png",Film Max
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6155/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/dK5k3sV/universal.png",Universal HD
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6094/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/9vD0H6F/tnt.png",TNT
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1102/index.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.ibb.co/k5JqN6r/fx.png",FX Comedy
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6107/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/G7b1S04/bein-haber.png",beIN Sports Haber
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2194&extension=m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/7jK0pX8/tivibuspor.png",Tivibu Spor
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=2041&extension=m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/2Z5pC00/trtspor.png",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr:443/master_1080.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/L5SgqXf/ht-spor.png",HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/4pYyvhm/cinespor.png",Cine Spor
+https://spor.cine6tv.com.tr:3860/stream/play.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VDPQfDM/cbc.png",CBC Sport
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/2193/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/LnhFv0t/idman.png",İdman TV
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=563790&extension=m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/QcYScgX/eurosport.png",Eurosport
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/20058/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/LgL59XN/espn.png",ESPN 1
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19156/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/LgL59XN/espn.png",ESPN 2
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19155/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/Jqj84Yv/tntspor.png",TNT Spor
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6566/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/Jqj84Yv/tntspor.png",TNT Spor 2
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/2506/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7329/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport 2
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport 3
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport 4
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7332/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport 5
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/VqC3DqV/arena.png",Arena Sport 6
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19106/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/mH5gY1M/skysportpl.png",Sky Sport PL
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/9334/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/p3yX99F/raisport.png",Rai Sport
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/19106/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/QPDJgYd/polsat.png",Polsat Sport
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/7304/index.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/5c5XzXN/tracesports.png",Trace Sports
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Spor" tvg-logo="https://i.ibb.co/mH4M3rJ/franspor.png",Fransa Sports
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/4s5zTjK/trtbelgesel.png",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/7YhN7vN/tlc.png",TLC
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/mN309vT/dmax.png",D-Max
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/Yy1WkCp/naturetime.png",Nature Time
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/yQJ472H/natgeowild.png",Nat Geo Wild
+https://live-cdn-65984.varplaycdn.cfd/natgeo/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/TKY3jY7/bbcearth.png",BBC Earth
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/6100/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/8DBV18m/hgtv.png",HG TV
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1084/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/7KzD58v/discoverylife.png",Disvovery Life
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30056/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/v4KjGfB/travelxp.png",Travel XP
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/31427/index.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://i.ibb.co/v4KjGfB/travelxp.png",Travel 4K
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/pnvXfW7/trt-ocuk.png",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/1Kk2J1N/minikago.png",Minika GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/7jXjJzJ/minika-ocuk.png",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/F8kF85P/disneyxd.png",Disney XD
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/1082/index.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/1nQ1dYw/nickjr.png",Nick JR
+http://hottest.vip:80/play/live.php?mac=00:1A:79:1A:2D:A3&stream=913121&extension=ts
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/FHgRkL0/nicktoons.png",Nicktoons
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=165&extension=m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/GvxYxW0/nickelodeon.png",Nickelodeon
+http://vip.qruzetv.site:8080/play/live.php?mac=00:2A:01:90:E8:FA&stream=481400&extension=m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/4JtK0yC/babyfirst.png",Baby First
+http://cb286df8.rossteleccom.net/iptv/ZCWPCL9K3LR827/30012/index.m3u8
+
+#EXTINF:-1 group-title="Çocuk" tvg-logo="https://i.ibb.co/6803C5j/ducktv.png",Duck TV
+https://jmp2.uk/sam-ESBC4700001GR.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/3s6x22P/turkpop.png",Türk Pop TV
+https://cdn-4turkpop.yayin.com.tr/4turkpop/4turkpop/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/mDTT3hV/kralpop.png",Kral Pop
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/j6s543W/dreamturk.png",Dream Türk
+https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/2gL8mFm/nr1.png",NR 1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/FhLwL3W/nr1ask.png",NR 1 Aşk
+http://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://i.ibb.co/tLWJdgg/powerturkslow.png",Power Türk Slow
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/zHChq6q/aztv.png",Az TV
+https://str.yodacdn.net/aztv/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/P44sBf0/ictimai.png",İçtimal TV
+https://live.itv.az/itv.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/N1pXm27/tv8.png",BBC Frama
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/2d1hVnj/rai1.png",Rai 1
+https://ilglobotv-live.akamaized.net/channels/RAI1/events(1000)/RAI1-video=5000000.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/Q8Q7JdF/rai2.png",Rai 2 HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19082/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/qN8Q51K/rai3.png",Rai 3 HD
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/M600f6j/rai4.png",Rai 4 HD
+http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/19084/index.m3u8
+
+#EXTINF:-1 group-title="Yabancı" tvg-logo="https://i.ibb.co/YXZvR7J/raiworld.png",Rai World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=699968.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/K50R02W/tv4.png",TV 4
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/Mh26hQn/bikanal.png",Bi Kanal
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/9r9v0vQ/tivi6.png",Tivi 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/7RjG34z/superturk.png",Süper Türk
+http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/93r6V2f/superturkmax.png",Süper Türk Max
+http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/1Kk2J1N/minikago.png",İsviçre TV
+https://i41.ozelip.com:3269/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/3sX8M4F/tv36.png",TV 36
+http://cdn4.yayin.com.tr/tv36/video.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/BGsC2Xz/tiviturk.png",Tivi Türk
+https://stream.tiviturk.de/live/tiviturk.m3u8
+
+#EXTINF:-1 group-title="Diğer" tvg-logo="https://i.ibb.co/j3v0N4z/chennal6.png",Chennal 6
+https://cdn4.yayin.com.tr/channel6tv/index.m3u8
