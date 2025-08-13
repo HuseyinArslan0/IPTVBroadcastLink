@@ -15,13 +15,13 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/930px-Atv_logo_2010.svg.png",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://images.seeklogo.com/logo-png/51/1/now-tv-turkey-logo-png_seeklogo-519520.png",Now TV
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://tpsbayxekmes.merlincdn.net//img/logos/logo.svg",Now TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",TV8,5
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png",360 TV
@@ -63,7 +63,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://lh6.googleusercontent.com/proxy/VLrnOczCmI56ZLJhcK_FAt8spuSkmuR2cJgDNxWGfh48ZYca48uomRA2ONcnNnYRl8B5DNaWYZIz",Cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.hizliresim.com/aziutgj.jpeg",TRT Nostalji
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.trt.net.tr/logos/our-logos/corporate/trt.png",TRT Nostalji
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://tring.al/wp-content/uploads/2024/03/LOGO-KKANAL-D_00299_dark.png",Kanal D Drama
@@ -147,10 +147,10 @@ http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7330/index.m3u8
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/09/30/20240930021242784769_92.png",Arena Sport 3
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7331/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://i.hizliresim.com/pwvc1tb.png",Arena Sport 4
+#EXTINF:-1 group-title="Spor" tvg-logo="https://www.tvarenasport.si/uploads/web/arenasport4.png",Arena Sport 4
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7332/index.m3u8
 
-#EXTINF:-1 group-title="Spor" tvg-logo="https://i.hizliresim.com/k5xhwlg.png",Arena Sport 5
+#EXTINF:-1 group-title="Spor" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Arena_Sport_5.png/revision/latest?cb=20210319050404",Arena Sport 5
 http://74214be9.edemist.com/iptv/WUX6STDKBG73GKNYAF5U3KMF/7333/index.m3u8
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://epg.pw/media/images/epg/2024/11/28/20241128022430237756_40.png",Arena Sport 6
