@@ -21,7 +21,7 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
 
-#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",TV8,5
+#EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",TV8.5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1 group-title="Ulusal Kanallar" tvg-logo="https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png",360 TV
@@ -296,3 +296,4 @@ https://stream.tiviturk.de/live/tiviturk.m3u8
 
 #EXTINF:-1 group-title="Diğer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWyoILnGhMtvPR3LSjR2QSQ4jLXxtNJXignw&s",Chennal 6
 https://cdn4.yayin.com.tr/channel6tv/index.m3u8
+
